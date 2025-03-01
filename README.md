@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, it's me ![WhyHelloGIF](https://github.com/user-attachments/assets/22a9c0d3-d726-4029-9f21-c60c29e3b543)
-</h1>
-<h3 align="center">seorang mahasiswi universitas bengkulu</h3>
+<h1 align="center">Hi guys, it's me</h1>
+<h3 align="center">seorang mahasiswi informatika universitas bengkulu</h3>
+<h3>ABOUT ME🐣 <br></h3>
 saya koreza almukadima,<br>
 seorang mahasiswi jurusan informatika di universitas bengkulu.<br>
 saya lahir di bengkulu selatan dan saat ini saya tinggal di kota bengkulu.
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korezaalmukadima&label=Profile%20views&color=0e75b6&style=flat" alt="korezaalmukadima" /> </p>
-ABOUT ME🐣 <br>
+<h3>My Profile and Programming Learning Journey</h3>
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **HTML, CSSDANBOOTSTRAP, JAVASCRIPT, JAVASCRIPTDOM, REACT.JS**
