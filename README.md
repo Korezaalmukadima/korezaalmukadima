@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm koreza</h1>
+<h1 align="center">Hi 👋, it's me ![WhyHelloGIF](https://github.com/user-attachments/assets/22a9c0d3-d726-4029-9f21-c60c29e3b543)
+</h1>
 <h3 align="center">seorang mahasiswi universitas bengkulu</h3>
 saya koreza almukadima,<br>
 seorang mahasiswi jurusan informatika di universitas bengkulu.<br>
