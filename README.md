@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://leadschool.in/wp-content/uploads/2022/04/shutterstock_1777292972.jpg">
 <h1 align="center">Hi 👋, I'm koreza</h1>
-<h3 align="center">seorang mahasiswi dari universitas bengkulu</h3>
+<h3 align="center">seorang mahasiswi universitas bengkulu</h3>
 saya koreza almukadima,<br>
 seorang mahasiswi jurusan informatika di universitas bengkulu.<br>
 saya lahir di bengkulu selatan dan saat ini saya tinggal di kota bengkulu.
