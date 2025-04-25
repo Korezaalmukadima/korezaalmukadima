@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi guys, it's me</h1>
-<h3 align="center">seorang mahasiswi informatika universitas bengkulu</h3>
+<h3 align="center">I am an informatics student at the University of Bengkulu</h3>
 <h3>ABOUT ME🐣 <br></h3>
-saya koreza almukadima,<br>
-seorang mahasiswi jurusan informatika di universitas bengkulu.<br>
-saya lahir di bengkulu selatan dan saat ini saya tinggal di kota bengkulu.
+I am koreza almukadima,<br>
+a student majoring in informatics at university of bengkulu.<br>
+I was born in South Bengkulu and I currently live in Bengkulu City.
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korezaalmukadima&label=Profile%20views&color=0e75b6&style=flat" alt="korezaalmukadima" /> </p>
